@@ -118,6 +118,8 @@ Installers for the following tools are included:
 
 There are also some installers for non-CTF stuff to break the monotony!
 
+What in the world ?? 
+
 | Category | Tool | Description |
 |----------|------|-------------|
 | C magic | [C-bind](https://github.com/zwimer/C-bind) | A library used to enable function binding in C! |
